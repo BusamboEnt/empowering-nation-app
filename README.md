@@ -6,13 +6,6 @@
 
 ---
 
-## Live Demos
-- **Web**: [https://your-username.github.io/empowering-nation-web-mobile/web](https://your-username.github.io/empowering-nation-web-mobile/web)
-- **Mobile**: Scan QR → Expo Go  
-  ![Expo QR](mobile-qr.png)
-
----
-
 ## Features Implemented
 - [x] Course browsing (6-month & 6-week)
 - [x] Fee calculator with discounts + VAT
@@ -22,17 +15,11 @@
 
 ---
 
-## Screenshots
-| Web | Mobile |
-|-----|--------|
-| ![Home](screenshots/web-home.png) | ![Home](screenshots/mobile-home.png) |
-
----
 
 ## How to Run
 ### Web
 ```bash
-git clone https://github.com/your-username/empowering-nation-web-mobile.git
+git clone (https://github.com/BusamboEnt/empowering-nation-app.git)
 cd web
 open index.html
 
