@@ -1,7 +1,7 @@
 # Empowering the Nation – Web & Mobile App
 
 **Student**: Arsene Busambo Tshibanda (ST10497531)  
-**Module**: Work-Integrated Learning (WIL)  
+**Module**: Work-Integrated Learning (WIL) Milstone 3  Mobile Application
 **Date**: November 2025
 
 ---
