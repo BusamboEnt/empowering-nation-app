@@ -1,4 +1,47 @@
-# Welcome to your Expo app 👋
+# Empowering the Nation – Web & Mobile App
+
+**Student**: Arsene Busambo Tshibanda (ST10497531)  
+**Module**: Work-Integrated Learning (WIL)  
+**Date**: November 2025
+
+---
+
+## Live Demos
+- **Web**: [https://your-username.github.io/empowering-nation-web-mobile/web](https://your-username.github.io/empowering-nation-web-mobile/web)
+- **Mobile**: Scan QR → Expo Go  
+  ![Expo QR](mobile-qr.png)
+
+---
+
+## Features Implemented
+- [x] Course browsing (6-month & 6-week)
+- [x] Fee calculator with discounts + VAT
+- [x] Contact form + Google Maps
+- [x] Responsive web
+- [x] Mobile bottom tabs
+
+---
+
+## Screenshots
+| Web | Mobile |
+|-----|--------|
+| ![Home](screenshots/web-home.png) | ![Home](screenshots/mobile-home.png) |
+
+---
+
+## How to Run
+### Web
+```bash
+git clone https://github.com/your-username/empowering-nation-web-mobile.git
+cd web
+open index.html
+
+
+
+
+
+
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
